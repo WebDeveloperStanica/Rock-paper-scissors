@@ -1,1 +1,13 @@
+<DOCTYPE html>
+    <html>
+        <head>
+            <meta charset="utf-8">
+            <meta name="description">
+            <title>Rock Paper Scissors</title>
+            <link rel="stylesheet" href="style.css">
+        </head>
+        <body>
 
+            <script src="script.js"></script>
+        </body>
+    </html>
